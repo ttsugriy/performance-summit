@@ -8,6 +8,7 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
 
 ## Communication channels
 - [Slack workspace](https://join.slack.com/t/performancesummithq/shared_invite/zt-eb406st2-2Y3L3_bn863l8Lf1ByS2vA)
+- [Youtube Channel](https://www.youtube.com/channel/UCt50fEvgrEuN9fvya8ujVzA)
 
 
 ## Resources to learn more about software performance
