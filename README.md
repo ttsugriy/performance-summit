@@ -5,8 +5,7 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
 ### Performance Summit II (Seattle)
 - [recordings](https://www.youtube.com/playlist?list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi)
 
-### Performance Summit III (virtual)
-- [Performance Summit III](https://performancesummitiii.splashthat.com/)
+### [Performance Summit III (virtual)](https://performancesummitiii.splashthat.com/)
 - [Slack channel](https://performancesummithq.slack.com/archives/CU6748V8C)
 - [slides](ps-iii/slides)
 
