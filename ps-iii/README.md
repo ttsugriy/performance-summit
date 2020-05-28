@@ -47,8 +47,18 @@ analysis of these small variations a needle-in-a-haystack problem. FlameScope so
 by combining a subsecond-offset heatmap, for navigating a profile and visualizing these perturbations,
 with a flame graph for code-path analysis.
 
-This talk focuses on how FlameScope, the open-source profile visualization tool, evolved into FlameCommander, a full-fledged cloud profiling solution used by thousands of engineers at Netflix.
+This talk focuses on how FlameScope, the open-source profile visualization tool, evolved into FlameCommander,
+a full-fledged cloud profiling solution used by thousands of engineers at Netflix.
 
 - [slides](slides/FlameCommander.pdf)
 - [Slack channel](https://performancesummithq.slack.com/archives/C013VCMTGQ7)
+
+### “Data Engineering at the Speed of Your Disk” by Daniel Lemire (Université du Québec)
+
+Our current best disk can read data at speeds of gigabytes per second; the best networks are even faster.
+We should aim for data engineering tasks (data filtering, parsing, validation) to achieve similar high speeds.
+Bottleneck tasks such as JSON ingestion can be much faster than they currently are.
+
+- [slides](slides/data_engineering.pdf)
+- [Slack channel](https://performancesummithq.slack.com/archives/C01435B85P0)
 
