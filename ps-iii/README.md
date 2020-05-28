@@ -9,7 +9,7 @@ it is the newest tool Mobile Profilers team is using to understand application p
 regressions in Consumption Metrics  on Android devices, in this talk we will discuss the powers of
 BPF and how we are using for lightweight and dynamic profiling.
 
-- [slides](ps-iii/slides/BPF%20-%20Perf%20Summit.pdf)
+- [slides](slides/BPF%20-%20Perf%20Summit.pdf)
 
 ### “Visual Completion measurement on Web” by Wooseok Jeong (Facebook)
 
@@ -20,7 +20,7 @@ end time of any task duration, Visual Completion considers display timing of ele
 level in progressive web-app rendering architecture. In addition to tracking visual performance, we
 are also measuring TTI(Time-To-Interactive) to collect performance signals for app responsiveness.
 
-- [slides](ps-iii/slides/VisualCompletion_slide.pdf)
+- [slides](slides/VisualCompletion_slide.pdf)
 
 ### “Applying Statistics to Root-Cause Analysis” - Karthik Kumar (Lightstep)
 
@@ -34,4 +34,4 @@ In order to support this type of aggregate trace analysis, we need data, but dat
 We want to gather only the relevant traces and bias towards traces that have abnormal behavior.
 I'll also talk about a few sampling approaches we use for analysis to minimize cost and overhead.
 
-- [slides](ps-iii/slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf)
+- [slides](slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf)
