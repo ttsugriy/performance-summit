@@ -10,6 +10,7 @@ regressions in Consumption Metrics  on Android devices, in this talk we will dis
 BPF and how we are using for lightweight and dynamic profiling.
 
 - [slides](slides/BPF%20-%20Perf%20Summit.pdf)
+- [Slack channel](https://performancesummithq.slack.com/archives/C0148LN501K)
 
 ### “Visual Completion measurement on Web” by Wooseok Jeong (Facebook)
 
@@ -21,6 +22,7 @@ level in progressive web-app rendering architecture. In addition to tracking vis
 are also measuring TTI(Time-To-Interactive) to collect performance signals for app responsiveness.
 
 - [slides](slides/VisualCompletion_slide.pdf)
+- [Slack channel](https://performancesummithq.slack.com/archives/C013V9L7823)
 
 ### “Applying Statistics to Root-Cause Analysis” - Karthik Kumar (Lightstep)
 
@@ -35,3 +37,4 @@ We want to gather only the relevant traces and bias towards traces that have abn
 I'll also talk about a few sampling approaches we use for analysis to minimize cost and overhead.
 
 - [slides](slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf)
+- [Slack channel](https://performancesummithq.slack.com/archives/C014A22TCSW)
