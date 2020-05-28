@@ -11,7 +11,7 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
 
 #### Talks
 - “Using BPF for lightweight Android profiling” by Riham Selim (Facebook)
-  - [slides](ps-iii/slides/BPF - Perf Summit.pdf)
+  - [slides](ps-iii/slides/BPF\ -\ Perf\ Summit.pdf)
 - “Visual Completion measurement on Web” by Wooseok Jeong (Facebook)
   - [slides](ps-iii/slides/VisualCompletion_slide.pdf)
 
