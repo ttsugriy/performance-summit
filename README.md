@@ -3,7 +3,7 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
 
 ## Events
 
-- [Performance Summit II (Seattle)(ps-ii)
+- [Performance Summit II (Seattle)](ps-ii)
 - [Performance Summit III (virtual)](ps-iii)
 
 ## Communication channels
