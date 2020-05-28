@@ -38,3 +38,17 @@ I'll also talk about a few sampling approaches we use for analysis to minimize c
 
 - [slides](slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf)
 - [Slack channel](https://performancesummithq.slack.com/archives/C014A22TCSW)
+
+### “FlameCommander: Netflix’s cloud profiler” by Martin Spier (Netflix)
+
+Even under constant load, the behavior of a system is affected by variance, perturbations,
+single-threaded execution and other time-based issues, and never completely uniform, making the
+analysis of these small variations a needle-in-a-haystack problem. FlameScope solved this problem
+by combining a subsecond-offset heatmap, for navigating a profile and visualizing these perturbations,
+with a flame graph for code-path analysis.
+
+This talk focuses on how FlameScope, the open-source profile visualization tool, evolved into FlameCommander, a full-fledged cloud profiling solution used by thousands of engineers at Netflix.
+
+- [slides](slides/FlameCommander.pdf)
+- [Slack channel](https://performancesummithq.slack.com/archives/C013VCMTGQ7)
+
