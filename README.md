@@ -15,6 +15,8 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
   - [slides](ps-iii/slides/BPF%20-%20Perf%20Summit.pdf)
 - “Visual Completion measurement on Web” by Wooseok Jeong (Facebook)
   - [slides](ps-iii/slides/VisualCompletion_slide.pdf)
+- “Applying Statistics to Root-Cause Analysis” - Karthik Kumar (Lightstep)
+  - [slides](ps-iii/slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf)
 
 ## Communication channels
 - [Slack workspace](https://join.slack.com/t/performancesummithq/shared_invite/zt-eb406st2-2Y3L3_bn863l8Lf1ByS2vA)
