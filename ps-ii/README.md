@@ -2,6 +2,8 @@
 
 ## Talks
 
+### ["Intro" by Taras Tsugrii](https://www.youtube.com/watch?v=-jyM9eHLo74&list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi&index=2)
+
 ### [“Static performance analysis with Infer” by Ezgi Çiçek](https://www.youtube.com/watch?v=-sqdJbvqeNQ&list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi)
 
 ### ["BPF at Facebook" by Alexei Starovoitov](https://www.youtube.com/watch?v=ZYBXZFKPS28&list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi&index=3)
@@ -25,6 +27,8 @@
 ### “Beyond Performance Testing” by Charles Lin
 
 ### [“Performance is a shape, not a number” by Alex Kehlenbeck (LightStep)](https://www.youtube.com/watch?v=EG7Zhd6gLiw&list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi&index=9)
+
+### ["Closing remarks" by Taras Tsugrii](https://www.youtube.com/watch?v=pDBqpDH2qL4&list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi&index=11)
 
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLkBzZYJWYzWsbI6sQnqKYF_YEupsdnxIi)
 - [Slack channel](https://performancesummithq.slack.com/archives/C014S1L1GL9)
