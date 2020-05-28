@@ -8,6 +8,7 @@ Performance Summit is a semi-annual event for software performance enthusiasts i
 ### Performance Summit III (virtual)
 - [Performance Summit III](https://performancesummitiii.splashthat.com/)
 - [Slack channel](https://performancesummithq.slack.com/archives/CU6748V8C)
+- [slides](ps-iii/slides)
 
 ## Communication channels
 - [Slack workspace](https://join.slack.com/t/performancesummithq/shared_invite/zt-eb406st2-2Y3L3_bn863l8Lf1ByS2vA)
