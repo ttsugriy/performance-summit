@@ -1,6 +1,5 @@
 ---
 layout: base
-pageClass: posts
 templateEngineOverride: njk, md
 ---
 
