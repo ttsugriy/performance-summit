@@ -1,9 +1,7 @@
 ---
 title: Performance Summit II
-tags: post
+date: 2019-10-29
 ---
-
-# Performance Summit II (Seattle)
 
 ## Talks
 

@@ -1,10 +1,9 @@
 ---
 title: Performance Summit III
-tags: post
+date: 2020-05-26
 ---
 
-# [Performance Summit III (virtual)](https://performancesummitiii.splashthat.com/)
-
+- [Event page](https://performancesummitiii.splashthat.com/)
 - [Slack channel](https://performancesummithq.slack.com/archives/CU6748V8C)
 
 ## Talks

@@ -4,10 +4,10 @@ subtitle: Performance Summit is a semi-annual event for software performance ent
 layout: base
 ---
 
-## Posts
+## Events
 
 <ul class="listing">
-{%- for page in collections.post -%}
+{%- for page in collections.event -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
