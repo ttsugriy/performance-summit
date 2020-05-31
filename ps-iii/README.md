@@ -1,12 +1,14 @@
 # [Performance Summit III (virtual)](https://performancesummitiii.splashthat.com/)
+
 - [Slack channel](https://performancesummithq.slack.com/archives/CU6748V8C)
 
 ## Talks
+
 ### “Using BPF for lightweight Android profiling” by Riham Selim (Facebook)
 
 BPF gives you the power to understand application performance in ways that were not possible before,
 it is the newest tool Mobile Profilers team is using to understand application performance and detect
-regressions in Consumption Metrics  on Android devices, in this talk we will discuss the powers of
+regressions in Consumption Metrics on Android devices, in this talk we will discuss the powers of
 BPF and how we are using for lightweight and dynamic profiling.
 
 - [slides](slides/BPF%20-%20Perf%20Summit.pdf)
@@ -61,4 +63,3 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
 
 - [slides](slides/data_engineering.pdf)
 - [Slack channel](https://performancesummithq.slack.com/archives/C01435B85P0)
-
