@@ -6,6 +6,7 @@
     "build": "eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/ttsugriy/performance-summit#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "prettier": "^2.0.5"
   }
 }
