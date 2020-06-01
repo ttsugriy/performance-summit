@@ -1,5 +1,7 @@
 # Performance Summit event
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99248862-08a3-4088-9f1a-1c947c00a6a0/deploy-status)](https://app.netlify.com/sites/frosty-gates-4166da/deploys)
+
 Performance Summit is a semi-annual event for software performance enthusiasts interested in learning and speaking about research and development in software performance space.
 
 ## Events
