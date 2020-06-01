@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = (config) => {
   config.addLayoutAlias("base", "layouts/base.njk");
@@ -12,6 +13,8 @@ module.exports = (config) => {
 
   config.addPassthroughCopy("site/css");
   config.addPassthroughCopy("site/images");
+
+  config.addPlugin(eleventyNavigationPlugin);
 
   return {
     dir: {
