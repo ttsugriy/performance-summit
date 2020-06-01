@@ -34,7 +34,7 @@ talks:
   - title: “A Single Story Of Noise”
     presenter: "Hai Huang and Huasong Cao"
     company: Google
-  - title: “Personalizing performance. How LinkedIn uses AI to optimize performance for every member”
+  - title: "Personalizing performance: How LinkedIn uses AI to optimize performance for every member"
     presenter: Prasanna Vijayanathan, Nitin Pasumarthy, Praveen Krishna
     youtube_url: https://www.youtube.com/embed/4A13Pzal8Hg
     company: LinkedIn
