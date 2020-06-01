@@ -1,14 +1,10 @@
 <header>
-    <ul class="nav">
-        <li>
-            <a href="/">home<small>summit home</small>
-            </a>
-        </li>
-        <li>
-            <a href="/about">about<small>all about the summit</small>
-            </a>
-        </li>
-    </ul>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="collapse navbar-collapse navbar-nav mr-auto" id="navbarSupportedContent">
+            <a href="/" class="nav-item nav-link">home</a>
+            <a href="/about" class="nav-item nav-link">about</a>
+        </div>
+    </nav>
     <h1>{{ title }}</h1>
     {%- if subtitle %}
         <p class="subtitle">{{ subtitle | safe }}</p>
