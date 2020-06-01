@@ -69,7 +69,7 @@ talks:
             class="embed-responsive-item"
             width="560"
             height="315"
-            src="{{ talk.youtube_url }}"
+            src="{{ talk.youtube_url | url }}"
             frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen>
