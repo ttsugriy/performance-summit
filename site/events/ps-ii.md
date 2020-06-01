@@ -64,6 +64,7 @@ talks:
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 mb-4">
 {%- for talk in talks -%}
   <div class="card">
+    {%- if talk.youtube_url -%}
     <div class="embed-responsive embed-responsive-16by9">
         <iframe
             class="embed-responsive-item"
@@ -75,6 +76,7 @@ talks:
             allowfullscreen>
         </iframe>
     </div>
+    {%- endif -%}
     <div class="card-header">{{ talk.title }}</div>
     <div class="card-body">
         <div class="card-text">{{ talk.abstract }}</div>
