@@ -8,11 +8,16 @@ eleventyNavigation:
 
 ## Events
 
-<ul class="listing">
+<div class="card-deck">
 {%- for page in collections.event -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
+  <div class="card border-primary">
+    <div class="card-body">
+        <h5 class="card-title">{{ page.data.title }}</h5>
+        <a class="btn btn-primary" href="{{ page.url }}">Learn more</a>
+    </div>
+    <div class="card-footer">
+        <time class="text-muted" datetime="{{ page.date }}">Held on {{ page.date | dateDisplay("LLLL d, y") }}</time>
+    </div>
+  </div>
 {%- endfor -%}
-</ul>
+</div>
