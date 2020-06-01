@@ -13,6 +13,7 @@ module.exports = (config) => {
 
   config.addPassthroughCopy("site/css");
   config.addPassthroughCopy("site/images");
+  config.addPassthroughCopy({ "ps-iii/slides": "events/ps-iii/slides" });
 
   config.addPlugin(eleventyNavigationPlugin);
 
