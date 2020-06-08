@@ -20,6 +20,15 @@ approach and share the findings. We will include the entire stack - mobile techn
 services - that helped achieve our goals of increasing the performance."
     slack_url: https://performancesummithq.slack.com/archives/C014G2PU1L4
     youtube_url: https://www.youtube.com/embed/qqtUWWvmRmI
+  - title: "Data Engineering at the Speed of Your Disk"
+    presenter: Daniel Lemire
+    company: Université du Québec
+    abstract: "Our current best disk can read data at speeds of gigabytes per second; the best networks are even faster.
+We should aim for data engineering tasks (data filtering, parsing, validation) to achieve similar high speeds.
+Bottleneck tasks such as JSON ingestion can be much faster than they currently are."
+    slides_url: slides/data_engineering.pdf
+    slack_url: https://performancesummithq.slack.com/archives/C01435B85P0
+    youtube_url: https://www.youtube.com/embed/p6X8BGSrR9w
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
@@ -67,14 +76,6 @@ This talk focuses on how FlameScope, the open-source profile visualization tool,
 a full-fledged cloud profiling solution used by thousands of engineers at Netflix."
     slides_url: slides/FlameCommander.pdf
     slack_url: https://performancesummithq.slack.com/archives/C013VCMTGQ7
-  - title: "Data Engineering at the Speed of Your Disk"
-    presenter: Daniel Lemire
-    company: Université du Québec
-    abstract: "Our current best disk can read data at speeds of gigabytes per second; the best networks are even faster.
-We should aim for data engineering tasks (data filtering, parsing, validation) to achieve similar high speeds.
-Bottleneck tasks such as JSON ingestion can be much faster than they currently are."
-    slides_url: slides/data_engineering.pdf
-    slack_url: https://performancesummithq.slack.com/archives/C01435B85P0
 
 ---
 
