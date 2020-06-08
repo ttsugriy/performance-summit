@@ -47,15 +47,6 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
     abstract: "Blackbox is a mobile instrumentation framework designed to capture context leading up to an error site. In this talk, we discuss how Facebook is using Blackbox to tackle functional bugs and crashes in our apps."
     slack_url: https://performancesummithq.slack.com/archives/C014A81FQQ3
     youtube_url: https://www.youtube.com/embed/3ZwBcHsvv8Q
-  - title: "Using BPF for lightweight Android profiling"
-    presenter: Riham Selim
-    company: Facebook
-    abstract: "BPF gives you the power to understand application performance in ways that were not possible before,
-it is the newest tool Mobile Profilers team is using to understand application performance and detect
-regressions in Consumption Metrics on Android devices, in this talk we will discuss the powers of
-BPF and how we are using for lightweight and dynamic profiling."
-    slides_url: slides/BPF%20-%20Perf%20Summit.pdf
-    slack_url: https://performancesummithq.slack.com/archives/C0148LN501K
   - title: "Visual Completion measurement on Web"
     presenter: Wooseok Jeong
     company: Facebook
@@ -67,6 +58,16 @@ level in progressive web-app rendering architecture. In addition to tracking vis
 are also measuring TTI(Time-To-Interactive) to collect performance signals for app responsiveness."
     slides_url: slides/VisualCompletion_slide.pdf
     slack_url: https://performancesummithq.slack.com/archives/C013V9L7823
+    youtube_url: https://www.youtube.com/embed/HCYsLftO9bQ
+  - title: "Using BPF for lightweight Android profiling"
+    presenter: Riham Selim
+    company: Facebook
+    abstract: "BPF gives you the power to understand application performance in ways that were not possible before,
+it is the newest tool Mobile Profilers team is using to understand application performance and detect
+regressions in Consumption Metrics on Android devices, in this talk we will discuss the powers of
+BPF and how we are using for lightweight and dynamic profiling."
+    slides_url: slides/BPF%20-%20Perf%20Summit.pdf
+    slack_url: https://performancesummithq.slack.com/archives/C0148LN501K
   - title: "Applying Statistics to Root-Cause Analysis"
     presenter: Karthik Kumar
     company: LightStep
