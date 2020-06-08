@@ -2,6 +2,12 @@
 title: Performance Summit III
 date: 2020-05-26
 talks:
+  - title: "How to be a Performance Badass"
+    presenter: Rico Mariani
+    company: Facebook
+    abstract: The talk will be centered on Do's and Don'ts but focused on individuals and how to be successful in that world.
+    slack_url: https://performancesummithq.slack.com/archives/C014NFJD8HF
+    youtube_url: https://www.youtube.com/embed/51AMfij2dIA
   - title: “Using BPF for lightweight Android profiling”
     presenter: Riham Selim
     company: Facebook
@@ -70,9 +76,24 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
   <div class="card">
     <div class="card-header">{{ talk.title }}</div>
     <div class="card-body">
+        {%- if talk.youtube_url -%}
+          <div class="embed-responsive embed-responsive-16by9">
+              <iframe
+                  class="embed-responsive-item"
+                  width="560"
+                  height="315"
+                  src="{{ talk.youtube_url | url }}"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+              </iframe>
+          </div>
+        {%- endif -%}
         <div class="card-text">{{ talk.abstract }}</div>
-        <a href="{{ talk.slides_url | url }}">Slides</a>
-        <a href="{{ talk.slack_url | url }}">Slack Channel</a>
+        {%- if talk.slides_url -%}
+            <a href="{{ talk.slides_url | url }}">Slides</a>
+        {%- endif -%}
+        <a href="{{ talk.slack_url | url }}"><img width="64" src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-199wkt/Slack_Mark.svg"></img></a>
     </div>
     <div class="card-footer">by {{ talk.presenter }} ({{ talk.company }})</div>
   </div>
