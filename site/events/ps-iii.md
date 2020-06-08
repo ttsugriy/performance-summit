@@ -8,7 +8,7 @@ talks:
     abstract: The talk will be centered on Do's and Don'ts but focused on individuals and how to be successful in that world.
     slack_url: https://performancesummithq.slack.com/archives/C014NFJD8HF
     youtube_url: https://www.youtube.com/embed/51AMfij2dIA
-  - title: “Using BPF for lightweight Android profiling”
+  - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
     abstract: "BPF gives you the power to understand application performance in ways that were not possible before,
@@ -28,7 +28,7 @@ level in progressive web-app rendering architecture. In addition to tracking vis
 are also measuring TTI(Time-To-Interactive) to collect performance signals for app responsiveness."
     slides_url: slides/VisualCompletion_slide.pdf
     slack_url: https://performancesummithq.slack.com/archives/C013V9L7823
-  - title: “Applying Statistics to Root-Cause Analysis”
+  - title: "Applying Statistics to Root-Cause Analysis"
     presenter: Karthik Kumar
     company: LightStep
     abstract: "As systems get more complex, reasoning about performance gets more difficult.
