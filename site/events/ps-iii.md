@@ -35,6 +35,12 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
     abstract: "Firebase Cloud Messaging (FCM), formerly known as Google Cloud Messaging,  is a cross-platform messaging solution to send notification to client apps. Performance testing for the messaging backend is a challenging problem in different aspects like networking, authentication, etc. In this talk I will cover the challenges of and best practice applied to the FCM performance testing infrastructure and how FCM developers use it for different testing purposes."
     slack_url: https://performancesummithq.slack.com/archives/C01439PLQ30
     youtube_url: https://www.youtube.com/embed/1GwZGF9xadk
+  - title: "Understanding Kernel Scheduling Behavior with SchedViz"
+    presenter: Lee Baugh
+    company: Google
+    abstract: "Kernel scheduling can be a significant source of latency problems: when a thread isn't running, it can't service requests or do anything else. SchedViz is a newly-open-sourced tool that provides fine-grained visibility into kernel scheduling behavior, and, increasingly, into other kernel phenomena as well.  This talk will provide a brief walk-through of SchedViz, including how it works and what we used it for."
+    slack_url: https://performancesummithq.slack.com/archives/C0148L49L5T
+    youtube_url: https://www.youtube.com/embed/tbR8A6kRSYA
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
