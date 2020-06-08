@@ -8,6 +8,18 @@ talks:
     abstract: The talk will be centered on Do's and Don'ts but focused on individuals and how to be successful in that world.
     slack_url: https://performancesummithq.slack.com/archives/C014NFJD8HF
     youtube_url: https://www.youtube.com/embed/51AMfij2dIA
+  - title: "Performance at a Macro Level"
+    presenter: Kayvan Najafzadeh
+    company: Uber
+    abstract: "Better performance of Mobile apps keeps more users engaged and results in achieving business goals.
+Often when we talk about performance we look at the problem with a magnifying glass to find every little thing
+that might have been contributing to the startup latency of an app. 
+
+In this talk, we will cover how we approached the idea of making UberEats app more performant, created a phased
+approach and share the findings. We will include the entire stack - mobile technologies and backend
+services - that helped achieve our goals of increasing the performance."
+    slack_url: https://performancesummithq.slack.com/archives/C014G2PU1L4
+    youtube_url: https://www.youtube.com/embed/qqtUWWvmRmI
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
