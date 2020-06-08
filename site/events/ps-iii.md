@@ -29,6 +29,12 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
     slides_url: slides/data_engineering.pdf
     slack_url: https://performancesummithq.slack.com/archives/C01435B85P0
     youtube_url: https://www.youtube.com/embed/p6X8BGSrR9w
+  - title: "Performance Testing for Firebase Cloud Messaging Backend"
+    presenter: Zijian Yao
+    company: Firebase/Google
+    abstract: "Firebase Cloud Messaging (FCM), formerly known as Google Cloud Messaging,  is a cross-platform messaging solution to send notification to client apps. Performance testing for the messaging backend is a challenging problem in different aspects like networking, authentication, etc. In this talk I will cover the challenges of and best practice applied to the FCM performance testing infrastructure and how FCM developers use it for different testing purposes."
+    slack_url: https://performancesummithq.slack.com/archives/C01439PLQ30
+    youtube_url: https://www.youtube.com/embed/1GwZGF9xadk
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
