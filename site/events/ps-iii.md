@@ -41,6 +41,12 @@ Bottleneck tasks such as JSON ingestion can be much faster than they currently a
     abstract: "Kernel scheduling can be a significant source of latency problems: when a thread isn't running, it can't service requests or do anything else. SchedViz is a newly-open-sourced tool that provides fine-grained visibility into kernel scheduling behavior, and, increasingly, into other kernel phenomena as well.  This talk will provide a brief walk-through of SchedViz, including how it works and what we used it for."
     slack_url: https://performancesummithq.slack.com/archives/C0148L49L5T
     youtube_url: https://www.youtube.com/embed/tbR8A6kRSYA
+  - title: "Solving Reliability Challenges with Blackbox"
+    presenter: Phuong Nguyen
+    company: Facebook
+    abstract: "Blackbox is a mobile instrumentation framework designed to capture context leading up to an error site. In this talk, we discuss how Facebook is using Blackbox to tackle functional bugs and crashes in our apps."
+    slack_url: https://performancesummithq.slack.com/archives/C014A81FQQ3
+    youtube_url: https://www.youtube.com/embed/3ZwBcHsvv8Q
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
