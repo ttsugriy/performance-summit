@@ -66,6 +66,13 @@ are also measuring TTI(Time-To-Interactive) to collect performance signals for a
 In order to support this type of aggregate trace analysis, we need data, but data isn't cheap. We want to gather only the relevant traces and bias towards traces that have abnormal behavior. I'll also talk about a few sampling approaches we use for analysis to minimize cost and overhead."
     slack_url: https://performancesummithq.slack.com/archives/C014A22TCSW
     youtube_url: https://www.youtube.com/embed/HqEIWfAARJY
+  - title: "Uplevelling Understanding with Transient Analysis"
+    presenter: George Hoffman
+    company: Facebook
+    abstract: "Performance on mobile devices is often heavily dependent on the efficient use of shared resources like network bandwidth and RAM and orchestration between disparate components that rely on them. Understanding the (often surprising) conditions that arise “in the wild,” their prevalence along your user population, and therefore how client code should optimally adapt to perform best under various transient conditions is very challenging.
+Transient Analysis is a methodology and toolset we’ve built to enable this type of understanding by modeling expected domain-specific behaviors, processing telemetry to characterize adherence to or divergence from these expectations at scale, and linking this analysis to actionable insights and visualizations of actual examples of problematic behavior. This session will walk through the development lifecycle of such an analysis and demo the tooling that enables it."
+    slack_url: https://performancesummithq.slack.com/archives/C013VCL0B8F
+    youtube_url: https://www.youtube.com/embed/Ni8uIniyu90
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
