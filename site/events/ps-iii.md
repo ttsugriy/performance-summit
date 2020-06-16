@@ -88,7 +88,7 @@ regressions in Consumption Metrics on Android devices, in this talk we will disc
 BPF and how we are using for lightweight and dynamic profiling."
     slides_url: slides/BPF%20-%20Perf%20Summit.pdf
     slack_url: https://performancesummithq.slack.com/archives/C0148LN501K
-    youtubd_url: 
+    youtube_url: https://www.youtube.com/embed/Vjb3qHem8io
   - title: "Applying Statistics to Root-Cause Analysis"
     presenter: Karthik Kumar
     company: LightStep
