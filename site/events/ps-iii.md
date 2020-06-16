@@ -104,6 +104,12 @@ a full-fledged cloud profiling solution used by thousands of engineers at Netfli
     slides_url: slides/FlameCommander.pdf
     slack_url: https://performancesummithq.slack.com/archives/C013VCMTGQ7
     youtube_url: https://www.youtube.com/embed/L58GrWcrD00
+  - title: "Faster Data-Center Apps with BOLT"
+    presenter: Maksim Panchenko
+    company: Facebook
+    abstract: "Code-layout optimizations are paramount for optimal performance of large data-center applications. In this talk, I will cover multiple approaches to improve the code layout of an application, introduce an open-source binary optimization tool BOLT, and walk through the challenges of deploying it at a Facebook scale. Lastly, I will share the plans for seamless integration of the binary optimization technology into the server application space."
+    slack_url: https://performancesummithq.slack.com/archives/C0148PHK6J1
+    youtube_url: https://www.youtube.com/embed/nPSxaUZjZC0
 
 ---
 
