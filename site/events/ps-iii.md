@@ -64,6 +64,7 @@ are also measuring TTI(Time-To-Interactive) to collect performance signals for a
     company: Lightstep
     abstract: "As systems get more complex, reasoning about performance gets more difficult. Telemetry data emitted by our services is noisy and usually unhelpful in stressful situations. Distributed Tracing, in particular, can provide rich, contextual data but root-cause analysis can still be convoluted. In this talk, I'll review a few statistics-based approaches we have applied to help quickly identify which properties of the system are correlated with performance issues.
 In order to support this type of aggregate trace analysis, we need data, but data isn't cheap. We want to gather only the relevant traces and bias towards traces that have abnormal behavior. I'll also talk about a few sampling approaches we use for analysis to minimize cost and overhead."
+    slides_url: slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf
     slack_url: https://performancesummithq.slack.com/archives/C014A22TCSW
     youtube_url: https://www.youtube.com/embed/HqEIWfAARJY
   - title: "Uplevelling Understanding with Transient Analysis"
@@ -89,20 +90,6 @@ BPF and how we are using for lightweight and dynamic profiling."
     slides_url: slides/BPF%20-%20Perf%20Summit.pdf
     slack_url: https://performancesummithq.slack.com/archives/C0148LN501K
     youtube_url: https://www.youtube.com/embed/Vjb3qHem8io
-  - title: "Applying Statistics to Root-Cause Analysis"
-    presenter: Karthik Kumar
-    company: LightStep
-    abstract: "As systems get more complex, reasoning about performance gets more difficult.
-Telemetry data emitted by our services is noisy and usually unhelpful in stressful situations.
-Distributed Tracing, in particular, can provide rich, contextual data but root-cause analysis
-can still be convoluted. In this talk, I'll review a few statistics-based approaches we have
-applied to help quickly identify which properties of the system are correlated with performance issues.
-
-In order to support this type of aggregate trace analysis, we need data, but data isn't cheap.
-We want to gather only the relevant traces and bias towards traces that have abnormal behavior.
-I'll also talk about a few sampling approaches we use for analysis to minimize cost and overhead."
-    slides_url: slides/Applying%20Statistics%20to%20Root-Cause%20Analysis.pdf
-    slack_url: https://performancesummithq.slack.com/archives/C014A22TCSW
   - title: "FlameCommander: Netflix’s cloud profiler"
     presenter: Martin Spier
     company: Netflix
