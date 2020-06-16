@@ -103,6 +103,7 @@ This talk focuses on how FlameScope, the open-source profile visualization tool,
 a full-fledged cloud profiling solution used by thousands of engineers at Netflix."
     slides_url: slides/FlameCommander.pdf
     slack_url: https://performancesummithq.slack.com/archives/C013VCMTGQ7
+    youtube_url: https://www.youtube.com/embed/L58GrWcrD00
 
 ---
 
