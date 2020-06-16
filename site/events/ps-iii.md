@@ -73,6 +73,12 @@ In order to support this type of aggregate trace analysis, we need data, but dat
 Transient Analysis is a methodology and toolset we’ve built to enable this type of understanding by modeling expected domain-specific behaviors, processing telemetry to characterize adherence to or divergence from these expectations at scale, and linking this analysis to actionable insights and visualizations of actual examples of problematic behavior. This session will walk through the development lifecycle of such an analysis and demo the tooling that enables it."
     slack_url: https://performancesummithq.slack.com/archives/C013VCL0B8F
     youtube_url: https://www.youtube.com/embed/Ni8uIniyu90
+  - title: "The Sociotechnical Path to High-Performing Teams (Begins With Observability)"
+    presenter: Charity Majors
+    company: Honeycomb
+    abstract: "\"Observability\" is everywhere these days, but what does it actually mean?  Is it just a new marketing term for the same old monitoring we've always done?  Are there three pillars, or no pillars?  It's enough to make anyone cranky and cynical about the motives of those involved.  I'll give a brief history of observability and control systems theory, make a pitch for the precise technical definition of observability, and explain how it differs from monitoring and other telemetry -- and why it has recently suddenly become so shudderingly relevant to us all.  I will discuss the second-order technical implications and effects of the definition I espouse, and describe the characteristics of tools we must build to understand the systems of tomorrow.  We are far behind where we should be as a profession when it comes to how much of our effort is wasted on crap that doesn't move the business forward, and this is in large part because our ability to understand our systems is so wretched -- and we don't even know it.  Let's fix that."
+    slack_url: https://performancesummithq.slack.com/archives/C014G7M88P6
+    youtube_url: https://www.youtube.com/embed/BsYIvi3Sae8
   - title: "Using BPF for lightweight Android profiling"
     presenter: Riham Selim
     company: Facebook
