@@ -19,7 +19,7 @@ talks:
     company: University of Cambridge
     abstract: "Performance tuning of computer systems is challenging for a variety of reasons. Modern computer systems expose many configuration parameters in a complex, massive parameter space. The systems are nonlinear and there is no method for quantifying or modelling such systems by performance tuning to the level of precision required. Furthermore, scheduling of tasks or resource allocation may require the control of dynamically evolving tasks. Auto-tuning has emerged using a black-box optimiser such as Bayesian Optimisation (BO). However, BO has limited scalability. Reinforcement Learning (RL) could be applied for combinatorial optimisation problems, but there is a gap between current research and practical RL deployments. I will introduce our framework to tackle these issues and demonstrate the potential of machine learning based methodologies for computer system optimisation."
     slack_url: https://performancesummithq.slack.com/archives/C0186A1QAA2
-    youtube_url: 
+    youtube_url: https://www.youtube.com/embed/xzV49q6e5Sw
   - title: "Optimising application performance by automating the data structure selection and tuning process"
     presenter: Michail Basios
     company: Turing Intelligence Technology Ltd.
