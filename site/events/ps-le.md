@@ -34,6 +34,13 @@ In this talk, I will describe how we can tune the performance of applications (e
 We will share a case study where we leveraged Akamas integration with open source load testing and monitoring tools to automatically optimize  the performance of a customer core Java service in terms of throughput, response time and resource utilization."
     slack_url: https://performancesummithq.slack.com/archives/C0192SXSU4Q
     youtube_url: https://www.youtube.com/embed/ZAQ530HT56s
+  - title: "Production Profiling: What, Why and How"
+    presenter: Richard Warburton
+    company: Opsian
+    abstract: "Everyone wants to understand what their application is really doing in production, but this information is normally invisible to developers. Profilers tell you what code your application is running but few developers profile and mostly on their development environments. Thankfully production profiling is now a practical reality that can help you solve and avoid performance problems.
+This pragmatic talk will help you understand the ins and outs of profiling in a production system. You’ll learn about different techniques and approaches that help you understand what’s really happening with your system. This helps you to solve new performance problems, regressions and undertake capacity planning exercises."
+    slack_url: https://performancesummithq.slack.com/archives/C018D2912RY
+    youtube_url: https://www.youtube.com/embed/P98qUJ3APeQ
 ---
 
 - [Event page](https://performancesummitle.splashthat.com/)
