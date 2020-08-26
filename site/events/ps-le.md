@@ -27,6 +27,13 @@ talks:
 In this talk, I will describe how we can tune the performance of applications (execution time, memory consumption, cpu usage) by automatically selecting and tuning their data structures. We will show how we can extract features from code bases and how to tackle them as an optimisation problem using Search based software engineering techniques. We will present a demo of our product (Artemis), and show how we have integrated it in the development pipeline. Last, we will discuss the lack of publicly available performance benchmarks and what can developers do to mitigate this problem.'
     slack_url: https://performancesummithq.slack.com/archives/C017Y9RTVD5
     youtube_url: https://www.youtube.com/embed/JLcpMKbdKLs
+  - title: "From manual performance testing to automated performance optimization"
+    presenter: Giovanni Gibilisco
+    company: Akamas
+    abstract: "Online services have become vital for any business and users are lowering their frustration bar getting used to faster applications. Technology, on the other hand, is getting more complex, with new layers like Docker or frameworks like Spark being added to the stack. In this talk, we will present the challenges posed by these new environments and introduce Akamas, our solution that makes use of ML to continuously optimize IT stack configurations to deliver unprecedented application performance, and cost savings.
+We will share a case study where we leveraged Akamas integration with open source load testing and monitoring tools to automatically optimize  the performance of a customer core Java service in terms of throughput, response time and resource utilization."
+    slack_url: https://performancesummithq.slack.com/archives/C0192SXSU4Q
+    youtube_url: https://www.youtube.com/embed/ZAQ530HT56s
 ---
 
 - [Event page](https://performancesummitle.splashthat.com/)
