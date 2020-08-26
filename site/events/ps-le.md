@@ -53,6 +53,12 @@ This pragmatic talk will help you understand the ins and outs of profiling in a 
     abstract: "In this talk, we'll look at the similarities and differences of measuring performance and reliability. You'll learn about how we have repurposed our perf tools for reliability to ramp up an app-wide reliability program in months instead of years."
     slack_url: https://performancesummithq.slack.com/archives/C017Y9W1WBZ
     youtube_url: https://www.youtube.com/embed/jGp8fJl_LpE
+  - title: "Panel discussion with Arun George John, Dmitry Pisklov, Eiko Yoneki, Michail Basios, Richard Warburton, Stefano Doni and Taras Tsugrii"
+    presenter: Arun George John, Dmitry Pisklov, Eiko Yoneki, Michail Basios, Richard Warburton, Stefano Doni and Taras Tsugrii
+    company:
+    abstract: free-form discussion on sotware performance
+    slack_url: https://performancesummithq.slack.com/archives/C0192T209BJ
+    youtube_url: https://www.youtube.com/embed/CqWHJEy4jF8
 ---
 
 - [Event page](https://performancesummitle.splashthat.com/)
