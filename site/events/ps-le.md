@@ -2,6 +2,13 @@
 title: Performance Summit London Edition
 date: 2020-08-06
 talks:
+  - title: "Introducing Amazon CodeGuru Profiler"
+    presenter: Fernando Ciciliati
+    company: Amazon
+    abstract: "AWS has just made its Profiler service generally available! Get to know Amazon CodeGuru Profiler and learn how we aim to demystify profiling and make it accessible to every developer. 
+This presentation will contain a short intro about software profiling before we start an overview of Amazon CodeGuru Profiler and end with a deep dive on this new offering from AWS."
+    slack_url: https://performancesummithq.slack.com/archives/C018BKY5XC5
+    youtube_url: 
   - title: "Benchmarking in the Cloud - 50K transactions per second"
     presenter: Arun George John
     company:
