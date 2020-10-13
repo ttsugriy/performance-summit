@@ -8,7 +8,7 @@ talks:
     abstract: "AWS has just made its Profiler service generally available! Get to know Amazon CodeGuru Profiler and learn how we aim to demystify profiling and make it accessible to every developer. 
 This presentation will contain a short intro about software profiling before we start an overview of Amazon CodeGuru Profiler and end with a deep dive on this new offering from AWS."
     slack_url: https://performancesummithq.slack.com/archives/C018BKY5XC5
-    youtube_url: 
+    youtube_url: https://www.youtube.com/embed/c-lNlchmaw8
   - title: "Benchmarking in the Cloud - 50K transactions per second"
     presenter: Arun George John
     company:
